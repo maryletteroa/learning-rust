@@ -11,11 +11,9 @@ cargo build
 cargo run
 ```
 
-Creates the components of [my_project](my_project)
-
-- Cargo tool creates the `myproject.yml` directory and subfiles.  
+- Cargo tool creates the [`my_project`](my_project) directory and subfiles.  
 - `Cargo.toml` contains the project's metadata.  
-- `src/main.rs` is where the source code will be written.
+- `src/main.rs` is where the source code is written.
 - `target/debug/my_project.exe` is the executable file when the compile is successful.
 
 
