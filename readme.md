@@ -10,7 +10,7 @@ Contains exercises and notes while learning Rust programming language.
 - [Day 3](day_03/day_03.md)
     - basic types
     - variables and constants
-- [Day 3](day_04/day_04.md)
+- [Day 4](day_04/day_04.md)
     - operators
 
 
