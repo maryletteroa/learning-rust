@@ -1,13 +1,13 @@
 2024-01-17
 
 ### Operators
-- arithmetic operators
+- [arithmetic](arithmetic.rs) (also see example [algebra](algebra.rs))
     - `+ - / * %`
-- comparison operators
+- [comparison](comparisons.rs)
     - `== != < > <= >=`
-- logical operators
+- [logical](logical.rs)
     - `&& || !`
-- bitwise operators
+- [bitwise](bitwise.rs)
     - `& | ^ << >>`
-- compound operators
+- [compound assignment](compound_assignment.rs)
     - `+=, -=, *= /= %= &= |= ^= <<= >>=`
