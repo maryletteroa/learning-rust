@@ -12,7 +12,9 @@ Contains exercises and notes while learning Rust programming language.
     - variables and constants
 - [Day 4](day_04/day_04.md)
     - operators
-
+- [Day 5](day_05/day_05.md)
+    - type casting
+    - reading inputs
 
 ## Reference
 [Rust Programming for Beginners by Nathan Metzler](https://www.goodreads.com/book/show/58530378-rust-programming-for-beginners)
