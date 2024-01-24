@@ -15,6 +15,12 @@ Contains exercises and notes while learning Rust programming language.
 - [Day 5](day_05/day_05.md)
     - type casting
     - reading inputs
+- [Day 6](day_06/day_06.md)
+    - if-else construct
+    - match construct
+
+
+
 
 ## Reference
 [Rust Programming for Beginners by Nathan Metzler](https://www.goodreads.com/book/show/58530378-rust-programming-for-beginners)
