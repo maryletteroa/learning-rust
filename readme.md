@@ -18,7 +18,8 @@ Contains exercises and notes while learning Rust programming language.
 - [Day 6](day_06/day_06.md)
     - if-else construct
     - match construct
-
+- [Day 7](day_07/day_07.md)
+    - loops
 
 
 
