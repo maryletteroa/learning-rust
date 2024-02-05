@@ -20,6 +20,8 @@ Contains exercises and notes while learning Rust programming language.
     - match construct
 - [Day 7](day_07/day_07.md)
     - loops
+- [Day 8](day_08/day_08.md)
+    - arrays (part 1/2)
 
 
 
