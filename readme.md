@@ -23,7 +23,9 @@ Contains exercises and notes while learning Rust programming language.
 - [Day 8](day_08/day_08.md)
     - defining arrays
     - slicing an array
-
+- [Day 9](day_09/day_09.md)
+    - more about arrays
+    - slices
 
 
 ## Reference
