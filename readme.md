@@ -28,6 +28,8 @@ Contains exercises and notes while learning Rust programming language.
     - slices
 - [Day 10](day_10/day_10.md)
     - vectors
+- [Day 11](day_11/day_11.md)
+    - strings
 
 ## Reference
 [Rust Programming for Beginners by Nathan Metzler](https://www.goodreads.com/book/show/58530378-rust-programming-for-beginners)
