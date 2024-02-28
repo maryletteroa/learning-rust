@@ -30,6 +30,8 @@ Contains exercises and notes while learning Rust programming language.
     - vectors
 - [Day 11](day_11/day_11.md)
     - strings
+- [Day 12](day_12/day_12.md)
+    - functions
 
 ## Reference
 [Rust Programming for Beginners by Nathan Metzler](https://www.goodreads.com/book/show/58530378-rust-programming-for-beginners)
