@@ -34,6 +34,8 @@ Contains exercises and notes while learning Rust programming language.
     - functions
 - [Day 13](day_13/day_13.md)
     - structures
+- [Day 14](day_14/day_14.md)
+    - commandline arguments
 
 ## Reference
 [Rust Programming for Beginners by Nathan Metzler](https://www.goodreads.com/book/show/58530378-rust-programming-for-beginners)
